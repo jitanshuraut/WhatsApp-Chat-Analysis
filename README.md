@@ -1,7 +1,8 @@
 # WhatsApp Chat Analysis
-![1ca74946ed770bb635e4de4711bd861f](https://user-images.githubusercontent.com/96559286/210086660-e177841f-9a6d-457e-9712-2c5651294e3f.gif)
 
 
+
+![33ba21ccda561739ab950d66e5616b82](https://user-images.githubusercontent.com/96559286/210087964-4bdcd33a-b3f8-4634-a1b9-18a6dacaba5d.gif)
 
 
 
@@ -12,6 +13,11 @@
 ```
 1. can do Analysis of WhatsApp Chat
 
+```
+
+## 🔷Future Scope
+```
+🌟. We can make a proper Flask server and Intergate with React App which makes it super cool
 ```
 
 ### 🛠libraries used:
@@ -29,8 +35,6 @@
 6. emoji
 
 7. wordcloud
-
-
 
 ```
 
